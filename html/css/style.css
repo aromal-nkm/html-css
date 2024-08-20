@@ -1,0 +1,52 @@
+body{
+
+    background-size: cover;
+}
+/*  */
+#image{
+    width: 50%;
+    height:auto;
+}
+#p1{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#p2{
+    background-color: blue;
+    font-weight: 400;
+    font-size: small;
+    color: dimgray;
+}
+#p3{
+    background-color: brown;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: lighter;
+}
+.grp{
+    font-family: fantasy;
+    border: 6px double black;
+
+}
+.list1{
+    list-style: armenian;
+}
+table{
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    margin: 5% 40% 5% 50%;
+
+}
+table tr{
+    border-bottom: 3px solid blue;
+
+}
+tr{
+    border-bottom: 2px solid black;
+}
+td{
+    border-right: 2px solid green;
+    padding: 5px 15px 5px 17px;
+}
